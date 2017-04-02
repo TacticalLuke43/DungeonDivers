@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Luke\Documents\Current School\CSC310\DungeonDivers v0.1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d487fd24076e107925401d410c5b699f71a992bd">
+        <dex dex="C:\Users\Luke\Documents\Current School\CSC310\DungeonDivers v0.1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d1231dd72894893c7b7a841b49d06f3aebf5860a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Luke\Documents\Current School\CSC310\DungeonDivers v0.1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Luke\Documents\Current School\CSC310\DungeonDivers v0.1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b8b5393fe47083aa7fc9c3eb9155cda920d9819d\classes.dex" />
+    </item>
+
+</items>

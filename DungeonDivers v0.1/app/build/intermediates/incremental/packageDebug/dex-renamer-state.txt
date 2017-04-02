@@ -1,0 +1,7 @@
+#Sun Apr 02 14:17:17 EDT 2017
+base.0=C\:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d1231dd72894893c7b7a841b49d06f3aebf5860a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b8b5393fe47083aa7fc9c3eb9155cda920d9819d\\classes.dex
+base.1=C\:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b8b5393fe47083aa7fc9c3eb9155cda920d9819d
+file.0=C\:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d1231dd72894893c7b7a841b49d06f3aebf5860a\\classes.dex

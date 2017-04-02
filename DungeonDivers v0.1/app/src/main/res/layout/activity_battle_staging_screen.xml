@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.rommo_000.dungeondivers.BattleStagingScreen">
+
+    <ImageView
+        android:id="@+id/charSprite"
+        android:layout_width="82dp"
+        android:layout_height="78dp"
+        app:srcCompat="@drawable/m_e_f"
+        tools:layout_editor_absoluteX="52dp"
+        tools:layout_editor_absoluteY="202dp"
+        android:layout_below="@+id/imageView2"
+        android:layout_toStartOf="@+id/imageView3"
+        android:layout_marginTop="28dp" />
+
+    <ImageView
+        android:id="@+id/monsterSprite"
+        android:layout_width="82dp"
+        android:layout_height="79dp"
+        app:srcCompat="@drawable/ghost_sprite"
+        tools:layout_editor_absoluteX="52dp"
+        tools:layout_editor_absoluteY="361dp"
+        android:layout_above="@+id/runButton"
+        android:layout_toStartOf="@+id/imageView3"
+        android:layout_marginBottom="15dp" />
+
+    <TextView
+        android:id="@+id/charName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="200dp"
+        tools:layout_editor_absoluteY="202dp"
+        android:layout_marginBottom="20dp"
+        android:layout_above="@+id/textView"
+        android:layout_alignStart="@+id/monsterName" />
+
+    <TextView
+        android:id="@+id/monsterName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ghost"
+        tools:layout_editor_absoluteX="200dp"
+        tools:layout_editor_absoluteY="361dp"
+        android:layout_alignTop="@+id/monsterSprite"
+        android:layout_alignEnd="@+id/textView2"
+        android:layout_marginTop="11dp" />
+
+    <TextView
+        android:id="@+id/charLevel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="258dp"
+        tools:layout_editor_absoluteY="244dp"
+        android:layout_toEndOf="@id/textView"
+        android:layout_alignTop="@id/textView"/>
+
+    <TextView
+        android:id="@+id/monsterLevel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="258dp"
+        tools:layout_editor_absoluteY="413dp"
+        android:layout_alignBaseline="@+id/textView2"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_alignEnd="@+id/charName" />
+
+    <Button
+        android:id="@+id/fightButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="fightButton"
+        android:text="Fight!"
+        tools:layout_editor_absoluteX="257dp"
+        tools:layout_editor_absoluteY="487dp"
+        android:layout_alignBaseline="@+id/runButton"
+        android:layout_alignBottom="@+id/runButton"
+        android:layout_alignEnd="@+id/imageView2" />
+
+    <Button
+        android:id="@+id/runButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="runButton"
+        android:text="Run"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="487dp"
+        android:layout_marginBottom="27dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignEnd="@+id/monsterSprite" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Level: "
+        tools:layout_editor_absoluteY="244dp"
+        tools:layout_editor_absoluteX="200dp"
+        android:layout_alignBottom="@+id/charSprite"
+        android:layout_alignEnd="@+id/imageView3" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Level: "
+        tools:layout_editor_absoluteY="413dp"
+        tools:layout_editor_absoluteX="200dp"
+        android:layout_alignBottom="@+id/monsterSprite"
+        android:layout_alignEnd="@+id/imageView3" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="75dp"
+        android:layout_height="55dp"
+        app:srcCompat="@drawable/battle_text2"
+        tools:layout_editor_absoluteY="292dp"
+        tools:layout_editor_absoluteX="155dp"
+        android:layout_below="@+id/imageView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="138dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/battle_text1"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="31dp"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

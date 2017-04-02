@@ -1,0 +1,60 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+
+<animation-list
+    android:oneshot="false"
+    android:id="@+id/coin_anim"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/coin_01"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/coin_02"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/coin_03"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/coin_04"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/coin_05"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/coin_06"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/coin_07"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/coin_08"
+        android:duration="100"/>
+
+
+
+
+</animation-list>
+
+
+<!--
+
+<item
+        android:drawable="@drawable/coin_03"
+        android:duration="250"/>
+    <item
+        android:drawable="@drawable/coin_04"
+        android:duration="250"/>
+    <item
+        android:drawable="@drawable/coin_05"
+        android:duration="250"/>
+    <item
+        android:drawable="@drawable/coin_06"
+        android:duration="250"/>
+    <item
+        android:drawable="@drawable/coin_07"
+        android:duration="250"/>
+    <item
+        android:drawable="@drawable/coin_08"
+        android:duration="250"/>
+
+-->
