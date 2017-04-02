@@ -1,4 +1,4 @@
-#Sun Apr 02 14:54:33 EDT 2017
+#Sun Apr 02 15:11:19 EDT 2017
 base.0=C\:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_53cafcede366e16cf85d7d475cb1538b9a345136
 renamed.1=classes.dex
 renamed.0=classes2.dex

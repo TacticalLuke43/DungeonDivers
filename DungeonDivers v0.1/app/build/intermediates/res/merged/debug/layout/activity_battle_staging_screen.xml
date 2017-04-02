@@ -10,7 +10,6 @@
         android:id="@+id/charSprite"
         android:layout_width="82dp"
         android:layout_height="78dp"
-        app:srcCompat="@drawable/m_e_f"
         tools:layout_editor_absoluteX="52dp"
         tools:layout_editor_absoluteY="202dp"
         android:layout_below="@+id/imageView2"
@@ -70,7 +69,7 @@
         tools:layout_editor_absoluteY="413dp"
         android:layout_alignBaseline="@+id/textView2"
         android:layout_alignBottom="@+id/textView2"
-        android:layout_alignEnd="@+id/charName" />
+        android:layout_toEndOf="@+id/textView2" />
 
     <Button
         android:id="@+id/fightButton"
