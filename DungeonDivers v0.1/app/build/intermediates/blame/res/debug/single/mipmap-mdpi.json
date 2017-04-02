@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
         "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }

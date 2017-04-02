@@ -775,7 +775,7 @@ int id imageView2 0x7f0c0073
 int id imageView3 0x7f0c0074
 int id imageView4 0x7f0c0097
 int id imageView6 0x7f0c0098
-int id imageView7 0x7f0c009f
+int id imageView7 0x7f0c009a
 int id info 0x7f0c00ca
 int id intDown 0x7f0c00ac
 int id intUp 0x7f0c00a8
@@ -880,11 +880,11 @@ int id textSpacerNoButtons 0x7f0c004a
 int id textView 0x7f0c0077
 int id textView2 0x7f0c0078
 int id textView3 0x7f0c0099
-int id textView4 0x7f0c009a
-int id textView5 0x7f0c009b
-int id textView6 0x7f0c009c
-int id textView7 0x7f0c009d
-int id textView8 0x7f0c009e
+int id textView4 0x7f0c009b
+int id textView5 0x7f0c009c
+int id textView6 0x7f0c009d
+int id textView7 0x7f0c009e
+int id textView8 0x7f0c009f
 int id time 0x7f0c00c5
 int id title 0x7f0c0040
 int id title_template 0x7f0c0045

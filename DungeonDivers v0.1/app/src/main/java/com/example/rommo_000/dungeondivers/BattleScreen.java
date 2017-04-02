@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.MotionEvent;
 import android.gesture.Gesture;
 import android.widget.ProgressBar;
+import android.widget.TextView;
 
 import java.util.ArrayList;
 
@@ -21,6 +22,7 @@ public class BattleScreen extends AppCompatActivity implements
     public Player player;
     int monsterHP;
     ProgressBar healthBar;
+    TextView monsterLevel;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,6 +36,9 @@ public class BattleScreen extends AppCompatActivity implements
         healthBar = (ProgressBar) findViewById(R.id.monsterHealth);
         healthBar.setProgress(monsterHP);
         GestureDetect.setOnDoubleTapListener(this);
+
+        monsterLevel = (TextView) findViewById(R.id.monsterLevel);
+        monsterLevel.setText(Integer.toString(monsterHP));
     }
 
     @Override
@@ -44,7 +49,12 @@ public class BattleScreen extends AppCompatActivity implements
 
     @Override
     public boolean onFling(MotionEvent motionEvent, MotionEvent motionEvent1, float v, float v1) {
-        monsterHP -= monster.getHp()-player.getStrength();
+        monsterHP = (monster.getHp()+monster.getDefense()-player.getStrength());
+        if(monsterHP>monster.getHp()) //dont let them get healed by weak hits
+        {
+            monsterHP = monster.getHp();
+        }
+        monsterLevel.setText(Integer.toString(monsterHP));
         healthBar.setProgress(monsterHP);
         if(monsterHP <= 0)
         {
@@ -60,7 +70,12 @@ public class BattleScreen extends AppCompatActivity implements
 
     @Override
     public boolean onDoubleTap(MotionEvent motionEvent) {
-        monsterHP -= monster.getHp()-player.getIntelligence();
+        monsterHP = (monster.getHp()+monster.getResistance()-player.getIntelligence());
+        if(monsterHP>monster.getHp()) //dont let them get healed by weak hits
+        {
+            monsterHP = monster.getHp();
+        }
+        monsterLevel.setText(Integer.toString(monsterHP));
         healthBar.setProgress(monsterHP);
         if(monsterHP <= 0)
         {

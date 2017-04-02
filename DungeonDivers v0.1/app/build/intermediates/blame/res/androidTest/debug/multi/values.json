@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Luke\\.android\\build-cache\\44569aafaa329597f968e889f7d03c0f0f7419f8\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 45,
+                        "endOffset": 328
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {

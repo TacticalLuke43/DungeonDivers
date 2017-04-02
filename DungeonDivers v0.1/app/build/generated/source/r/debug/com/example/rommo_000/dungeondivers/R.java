@@ -2693,7 +2693,7 @@ containing a value of this type.
         public static final int imageView3=0x7f0c0074;
         public static final int imageView4=0x7f0c0097;
         public static final int imageView6=0x7f0c0098;
-        public static final int imageView7=0x7f0c009f;
+        public static final int imageView7=0x7f0c009a;
         public static final int info=0x7f0c00ca;
         public static final int intDown=0x7f0c00ac;
         public static final int intUp=0x7f0c00a8;
@@ -2798,11 +2798,11 @@ containing a value of this type.
         public static final int textView=0x7f0c0077;
         public static final int textView2=0x7f0c0078;
         public static final int textView3=0x7f0c0099;
-        public static final int textView4=0x7f0c009a;
-        public static final int textView5=0x7f0c009b;
-        public static final int textView6=0x7f0c009c;
-        public static final int textView7=0x7f0c009d;
-        public static final int textView8=0x7f0c009e;
+        public static final int textView4=0x7f0c009b;
+        public static final int textView5=0x7f0c009c;
+        public static final int textView6=0x7f0c009d;
+        public static final int textView7=0x7f0c009e;
+        public static final int textView8=0x7f0c009f;
         public static final int time=0x7f0c00c5;
         public static final int title=0x7f0c0040;
         public static final int title_template=0x7f0c0045;

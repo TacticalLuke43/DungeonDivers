@@ -1,4 +1,4 @@
-#Sun Apr 02 13:52:33 EDT 2017
-base.0=C\:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
+#Sun Apr 02 14:54:33 EDT 2017
+base.0=C\:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
 renamed.0=classes.dex
-file.0=C\:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex
+file.0=C\:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex

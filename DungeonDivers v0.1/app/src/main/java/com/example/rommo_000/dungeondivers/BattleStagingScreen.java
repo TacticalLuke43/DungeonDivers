@@ -27,11 +27,11 @@ public class BattleStagingScreen extends AppCompatActivity {
         playerInfo = (ArrayList<String>) getIntent().getSerializableExtra("playerInfo");
         player = new Player(playerInfo);
         //update player sprite on screen
-        /*charSpriteImage = (ImageView) findViewById(R.id.charSprite);
+        charSpriteImage = (ImageView) findViewById(R.id.charSprite);
         String playerIcon = player.getRaceClassGender();
         charSpriteImage.setBackgroundResource(getResources().getIdentifier(playerIcon, "drawable", getApplicationContext().getPackageName()));
         AnimationDrawable frameAnimation = (AnimationDrawable) charSpriteImage.getBackground();
-        frameAnimation.start();*/
+        frameAnimation.start();
         //update player name
         charNameText = (TextView) findViewById(R.id.charName);
         charNameText.setText(player.getName());
