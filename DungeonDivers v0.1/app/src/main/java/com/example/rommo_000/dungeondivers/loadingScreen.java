@@ -44,7 +44,7 @@ public class loadingScreen extends AppCompatActivity {
         showLogo.startAnimation(DDlogo);
 
         player = new Player();
-        copy = new ArrayList<>(player.loadData());
+        //copy = new ArrayList<>(player.loadData());
 
 
         Thread myThread = new Thread(){
@@ -54,7 +54,7 @@ public class loadingScreen extends AppCompatActivity {
                 try {
                     sleep(3500);
                     Intent intent = new Intent(getApplicationContext(), navigationScreen.class);
-                    intent.putExtra("charInfo", copy);
+                    //intent.putExtra("charInfo", copy);
                     startActivity(intent);
                     finish();
                 } catch (InterruptedException e) {

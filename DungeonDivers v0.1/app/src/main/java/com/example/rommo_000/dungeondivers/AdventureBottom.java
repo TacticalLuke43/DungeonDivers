@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 
 import static android.R.attr.fragment;
 
-public class AdventureBottom extends Fragment{
+public class AdventureBottom extends FragmentActivity{
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {

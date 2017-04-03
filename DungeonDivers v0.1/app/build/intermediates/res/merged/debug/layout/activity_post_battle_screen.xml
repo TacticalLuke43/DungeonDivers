@@ -18,7 +18,6 @@
         android:id="@+id/charSprite"
         android:layout_width="50dp"
         android:layout_height="50dp"
-        app:srcCompat="@drawable/m_e_f"
         android:layout_marginStart="25dp"
         android:layout_marginTop="121dp"
         android:layout_below="@+id/imageView6"

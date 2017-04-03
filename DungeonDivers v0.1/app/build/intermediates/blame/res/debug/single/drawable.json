@@ -4,28 +4,12 @@
         "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whm.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\whm.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camp_fire1.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\camp_fire1.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_e_f.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_e_f.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\door_4.png",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\door_4.png"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_o_f.jpg",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_o_f.jpg"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
         "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rem.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\rem.xml"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wof.xml",
@@ -40,516 +24,12 @@
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_o_m2.jpg"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_h_f.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_h_f.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_e_f2.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_e_f2.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scroll.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\scroll.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_h_m.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_h_m.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_02.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_02.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_h_f2.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_h_f2.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rem.xml",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\rem.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_04.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_04.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_e_m2.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_e_m2.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_o_m2.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_o_m2.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_h_f2.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_h_f2.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mhm.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\mhm.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camp_fire3.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\camp_fire3.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_o_m.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_o_m.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\victory_text.png",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\victory_text.png"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\battle_text1.png",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\battle_text1.png"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mof.xml",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\mof.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_h_f2.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_h_f2.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_o_m.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_o_m.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_e_m.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_e_m.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scroll.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\scroll.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camp_fire1.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\camp_fire1.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\globe_mana.png",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\globe_mana.png"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_o_m.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_o_m.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_o_m2.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_o_m2.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_h_f2.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_h_f2.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\battle_text2.png",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\battle_text2.png"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_e_f.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_e_f.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camp_fire5.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\camp_fire5.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_06.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_06.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wof.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\wof.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cavebottom.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\cavebottom.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_o_f2.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_o_f2.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_e_m2.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_e_m2.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mhm.xml",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\mhm.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\door_2.png",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\door_2.png"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_e_f.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_e_f.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whf.xml",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\whf.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_08.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_08.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camp_fire4.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\camp_fire4.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mom.xml",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\mom.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_h_f.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_h_f.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\globe_mana.png",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\globe_mana.png"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_o_m2.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_o_m2.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_07.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_07.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mhf.xml",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\mhf.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ddlogo.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\ddlogo.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_h_m2.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_h_m2.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_h_f2.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_h_f2.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_h_f.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_h_f.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mef.xml",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\mef.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ddlogo.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\ddlogo.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_07.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_07.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\campfire.xml",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\campfire.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_e_m.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_e_m.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_h_m.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_h_m.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ghost_sprite.png",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\ghost_sprite.png"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_h_m.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_h_m.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_e_f2.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_e_f2.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_e_m2.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_e_m2.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_h_m.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_h_m.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cave.png",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\cave.png"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_vector_test.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mhf.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\mhf.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ghost_sprite.png",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\ghost_sprite.png"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_h_m2.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_h_m2.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_h_f.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_h_f.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_o_f.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_o_f.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_02.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_02.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\door_2.png",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\door_2.png"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_e_m.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_e_m.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_h_m.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_h_m.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_08.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_08.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rhf.xml",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\rhf.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mem.xml",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\mem.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whm.xml",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\whm.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camp_fire5.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\camp_fire5.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_h_m.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_h_m.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_o_f.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_o_f.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mem.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\mem.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rhm.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\rhm.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_h_f.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_h_f.jpg"
-    },
-    {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
         "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_h_f.jpg",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_h_f.jpg"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\door_1.png",
@@ -560,12 +40,8 @@
         "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_e_m.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_e_m.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_e_m2.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_e_m2.jpg"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scroll.jpg",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\scroll.jpg"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
@@ -580,32 +56,40 @@
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_h_m2.bmp"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_h_m2.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_h_m2.jpg"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_02.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_02.bmp"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
         "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rof.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\rof.xml"
-    },
-    {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_o_f2.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_o_f2.jpg"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rem.xml",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\rem.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_e_m2.jpg",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_e_m2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_04.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_04.bmp"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_h_f2.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_h_f2.bmp"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_01.bmp",
@@ -636,56 +120,44 @@
         "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mof.xml",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\mof.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wem.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\wem.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cave.png",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\cave.png"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_01.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_01.bmp"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_h_f.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_h_f.jpg"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_o_m.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_o_m.bmp"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_e_f2.bmp",
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_e_f2.bmp"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cavetop.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\cavetop.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\door_3.png",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\door_3.png"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_e_m.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_e_m.bmp"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rhm.xml",
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\rhm.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\door_1.png",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\door_1.png"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_03.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_03.bmp"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camp_fire1.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\camp_fire1.bmp"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_o_m.jpg",
@@ -700,40 +172,16 @@
         "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_h_m2.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_h_m2.bmp"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_o_m2.jpg",
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_o_m2.jpg"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_e_f.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_e_f.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_e_f2.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_e_f2.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\campfire.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\campfire.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_anim.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_anim.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
@@ -744,36 +192,44 @@
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_o_f2.jpg"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_h_f2.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_h_f2.jpg"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\battle_text2.png",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\battle_text2.png"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rhf.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\rhf.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
         "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mef.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\mef.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_h_f2.jpg",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_h_f2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_e_f.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_e_f.bmp"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\battle_text2.png",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\battle_text2.png"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wem.xml",
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\wem.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_06.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_06.bmp"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_03.bmp",
@@ -784,16 +240,12 @@
         "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camp_fire2.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\camp_fire2.bmp"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cavebottom.jpg",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\cavebottom.jpg"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_e_m2.jpg",
@@ -804,6 +256,10 @@
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\left_arrow.png"
     },
     {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ref.xml",
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\ref.xml"
     },
@@ -812,24 +268,40 @@
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_o_m.jpg"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mhm.xml",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\mhm.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_06.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_06.bmp"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\door_2.png",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\door_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_e_f.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_e_f.bmp"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whf.xml",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\whf.xml"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
         "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_08.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_08.bmp"
+    },
+    {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_o_f.bmp",
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_o_f.bmp"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wef.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\wef.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camp_fire4.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\camp_fire4.bmp"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_o_m2.bmp",
@@ -840,20 +312,16 @@
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_anim.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_e_f.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_e_f.bmp"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mom.xml",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\mom.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_o_f.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_o_f.bmp"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\globe_mana.png",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\globe_mana.png"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rom.xml",
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\rom.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ref.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\ref.xml"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camp_fire3.bmp",
@@ -864,84 +332,60 @@
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_e_f2.jpg"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_arrow.png",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\right_arrow.png"
-    },
-    {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_arrow.png",
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\right_arrow.png"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whf.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\whf.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_o_f2.jpg",
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_o_f2.jpg"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_o_f2.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_o_f2.bmp"
-    },
-    {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mhf.xml",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\mhf.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_e_m.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_e_m.jpg"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_h_f2.jpg",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_h_f2.jpg"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_h_f.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_h_f.bmp"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mef.xml",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\mef.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mom.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\mom.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ddlogo.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\ddlogo.bmp"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_07.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_07.bmp"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_04.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_04.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_vector_test.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wom.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\wom.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wef.xml",
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\wef.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camp_fire4.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\camp_fire4.bmp"
-    },
-    {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\globe_hp.png",
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\globe_hp.png"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_05.bmp",
@@ -952,32 +396,40 @@
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\door_3.png"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stick_figure.png",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\stick_figure.png"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\campfire.xml",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\campfire.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_h_m.jpg",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_h_m.jpg"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\globe_hp.png",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\globe_hp.png"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ghost_sprite.png",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\ghost_sprite.png"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_e_m2.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_e_m2.bmp"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_h_m.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_h_m.bmp"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_o_f.jpg",
@@ -988,84 +440,96 @@
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\door_4.png"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cave.png",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\cave.png"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
         "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_e_m2.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_e_m2.jpg"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_o_m.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_o_m.bmp"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\door_anim.xml",
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\door_anim.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_h_m2.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_h_m2.bmp"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mof.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\mof.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_h_f.jpg",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_h_f.jpg"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_05.bmp",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\coin_05.bmp"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wom.xml",
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\wom.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\door_anim.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\door_anim.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
-    },
-    {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stick_figure.png",
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\stick_figure.png"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_e_m.jpg",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_e_m.jpg"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_e_f2.bmp",
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_e_f2.bmp"
     },
     {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rhf.xml",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\rhf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mem.xml",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\mem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\5c9f42a97a01256af05a175220a8bf04df5d18be\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whm.xml",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\whm.xml"
+    },
+    {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rof.xml",
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\rof.xml"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left_arrow.png",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\left_arrow.png"
-    },
-    {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cavebottom.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\cavebottom.jpg"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Luke\\.android\\build-cache\\cbdda85569ed9aded070fd1657426160f60353a1\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_e_m.jpg",
         "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\w_e_m.jpg"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_o_f.jpg",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\r_o_f.jpg"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camp_fire5.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\camp_fire5.bmp"
     },
     {
-        "merged": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rom.xml",
-        "source": "C:\\Users\\Luke\\Documents\\Current School\\CSC310\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\rom.xml"
+        "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_h_m.bmp",
+        "source": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\src\\main\\res\\drawable\\m_h_m.bmp"
     },
     {
         "merged": "C:\\Users\\Luke\\Documents\\GitHub\\DungeonDivers\\DungeonDivers v0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camp_fire2.bmp",

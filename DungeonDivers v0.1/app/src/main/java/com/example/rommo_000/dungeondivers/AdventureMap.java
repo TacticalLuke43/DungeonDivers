@@ -33,7 +33,7 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 
-public class AdventureMap extends Fragment implements OnMapReadyCallback {
+public class AdventureMap extends FragmentActivity implements OnMapReadyCallback {
     GoogleMap mGoogleMap;
     MapView mapView;
     View mView;

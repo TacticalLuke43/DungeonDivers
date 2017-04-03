@@ -21,7 +21,7 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
-public class AdventureTop extends Fragment implements SensorEventListener{
+public class AdventureTop extends FragmentActivity implements SensorEventListener{
 
     TextView adventureTopNameView;
     TextView stepsAdventure;
