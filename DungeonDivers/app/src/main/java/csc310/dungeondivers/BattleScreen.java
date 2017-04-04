@@ -1,11 +1,12 @@
 package csc310.dungeondivers;
 
 import android.content.Intent;
+import android.graphics.drawable.AnimationDrawable;
 import android.support.v4.view.GestureDetectorCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MotionEvent;
-import android.gesture.Gesture;
+import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
@@ -23,6 +24,7 @@ public class BattleScreen extends AppCompatActivity implements
     int monsterHP;
     ProgressBar healthBar;
     TextView monsterLevel;
+    ImageView monsterSpriteImage;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,6 +38,11 @@ public class BattleScreen extends AppCompatActivity implements
         healthBar = (ProgressBar) findViewById(R.id.monsterHealth);
         healthBar.setProgress(monsterHP);
         GestureDetect.setOnDoubleTapListener(this);
+
+        monsterSpriteImage = (ImageView) findViewById(R.id.monsterSprite);
+        monsterSpriteImage.setBackgroundResource(getResources().getIdentifier("ghost_sprite_anim", "drawable", getApplicationContext().getPackageName()));
+        AnimationDrawable frameAnimation = (AnimationDrawable) monsterSpriteImage.getBackground();
+        frameAnimation.start();
 
         monsterLevel = (TextView) findViewById(R.id.monsterLevel);
         monsterLevel.setText(Integer.toString(monsterHP));

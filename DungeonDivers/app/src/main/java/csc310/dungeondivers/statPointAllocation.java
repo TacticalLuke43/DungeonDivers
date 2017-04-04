@@ -41,6 +41,7 @@ public class statPointAllocation extends AppCompatActivity {
     TextView intView;
     TextView defView;
     TextView resView;
+    ArrayList<String> a;
     String filename = "characterSavedData";
     FileOutputStream outputStream;
     String path = Environment.getExternalStorageDirectory().getAbsolutePath() + "/characterSaveData";
@@ -194,8 +195,8 @@ public class statPointAllocation extends AppCompatActivity {
     }
     public void gotoConfirmation(View view)
     {
-        if(currTotalStats == max)
-        {
+        //if(currTotalStats == max)
+       // {
             String allData = "30\n30\n" + strView.getText() + "\n" + intView.getText() + "\n" + resView.getText() + "\n" + defView.getText()
                     + "\n0\n1\n" + nameFromPrev + "\n" + newChar.returnPicInfo() + "\n0\n0";
             Player player = new Player();
@@ -204,7 +205,7 @@ public class statPointAllocation extends AppCompatActivity {
             else
                 Toast.makeText(getApplicationContext(),"Create Failed", Toast.LENGTH_SHORT).show();
 
-            ArrayList<String> a = new ArrayList<>();
+            a = new ArrayList<String>();
             a.add("30");
             a.add("30");
             a.add(strView.getText().toString());
@@ -222,9 +223,9 @@ public class statPointAllocation extends AppCompatActivity {
             Intent intent = new Intent(this, navigationScreen.class);
             intent.putExtra("charInfo", a);
             startActivity(intent);
-        }
-        else
-            Toast.makeText(this, "Please allocate remaining points", Toast.LENGTH_SHORT).show();
+        //}
+       // else
+        //    Toast.makeText(this, "Please allocate remaining points", Toast.LENGTH_SHORT).show();
 
 
     }

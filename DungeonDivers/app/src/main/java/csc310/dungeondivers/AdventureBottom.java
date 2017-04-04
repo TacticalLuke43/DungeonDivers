@@ -10,6 +10,7 @@ import android.view.ViewGroup;
 import static android.R.attr.fragment;
 
 public class AdventureBottom extends Fragment{
+    adventureActivity2 activity2;
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
@@ -17,5 +18,16 @@ public class AdventureBottom extends Fragment{
         View view = inflater.inflate(R.layout.adventure_bottom, container, false);
         return view;
 
+    }
+    public void onActivityCreated(@Nullable Bundle savedInstanceState) {
+        super.onActivityCreated(savedInstanceState);
+        activity2 = new adventureActivity2();
+
+
+    }
+
+    public void showSocial(View view)
+    {
+      //  activity2.changeFragment();
     }
 }

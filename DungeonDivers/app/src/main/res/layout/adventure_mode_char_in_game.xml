@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <TextView
+        android:id="@+id/charInGameName"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="30sp" />
+
+    <ImageView
+        android:id="@+id/charInGameIcon"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_below="@+id/charInGameName"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="70dp"
+        app:srcCompat="@drawable/breastplate"
+        android:layout_below="@+id/charInGameIcon"
+        android:layout_alignEnd="@+id/textView10"
+        android:layout_marginEnd="25dp" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="58dp"
+        app:srcCompat="@drawable/helm"
+        android:layout_below="@+id/textView10"
+        android:layout_alignStart="@+id/imageView8" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        app:srcCompat="@drawable/sword"
+        android:layout_marginStart="31dp"
+        android:layout_above="@+id/textView10"
+        android:layout_toEndOf="@+id/charInGameIcon" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        app:srcCompat="@drawable/shield"
+        android:layout_above="@+id/textView11"
+        android:layout_alignStart="@+id/imageView10" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Regular Armor"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="18sp"
+        android:layout_below="@+id/imageView8"
+        android:layout_toStartOf="@+id/charInGameIcon"
+        android:layout_marginEnd="10dp" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Regular Helm"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="18sp"
+        android:layout_below="@+id/imageView9"
+        android:layout_alignEnd="@+id/textView10" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Steel Sword"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="18sp"
+        android:layout_below="@+id/imageView10"
+        android:layout_alignEnd="@+id/textView13" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wood Shield"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="18sp"
+        android:layout_marginStart="19dp"
+        android:layout_below="@+id/imageView11"
+        android:layout_toEndOf="@+id/charInGameIcon" />
+</RelativeLayout>

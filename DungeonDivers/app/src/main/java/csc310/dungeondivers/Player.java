@@ -86,6 +86,11 @@ public class Player {
         return hp + "\n" + mana + "\n" + strength + "\n" + intelligence + "\n" + resistance + "\n" + defense + "\n"
                 + exp + "\n" + level + "\n" + name + "\n" + classRaceGender;
     }
+    public void setHp(int in)
+    {
+        hp = in;
+        return;
+    }
     public String getRaceClassGender()
     {
         return classRaceGender;
@@ -97,10 +102,6 @@ public class Player {
     public int getHp()
     {
         return hp;
-    }
-    public void setHp(int newHP) {
-        hp = newHP;
-        return;
     }
     public int getMana()
     {

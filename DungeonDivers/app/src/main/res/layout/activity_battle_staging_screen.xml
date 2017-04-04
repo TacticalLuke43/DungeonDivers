@@ -19,13 +19,12 @@
     <ImageView
         android:id="@+id/monsterSprite"
         android:layout_width="82dp"
-        android:layout_height="79dp"
-        app:srcCompat="@drawable/ghost_sprite"
+        android:layout_height="82dp"
         tools:layout_editor_absoluteX="52dp"
         tools:layout_editor_absoluteY="361dp"
         android:layout_above="@+id/runButton"
         android:layout_toStartOf="@+id/imageView3"
-        android:layout_marginBottom="15dp" />
+        android:layout_marginBottom="50dp" />
 
     <TextView
         android:id="@+id/charName"
@@ -44,7 +43,7 @@
         android:layout_height="wrap_content"
         android:text="Ghost"
         tools:layout_editor_absoluteX="200dp"
-        tools:layout_editor_absoluteY="361dp"
+        tools:layout_editor_absoluteY="351dp"
         android:layout_alignTop="@+id/monsterSprite"
         android:layout_alignEnd="@+id/textView2"
         android:layout_marginTop="11dp" />
@@ -73,22 +72,23 @@
 
     <Button
         android:id="@+id/fightButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_alignBottom="@+id/runButton"
+        android:layout_alignEnd="@+id/imageView2"
+        android:background="@drawable/button2"
         android:onClick="fightButton"
         android:text="Fight!"
         tools:layout_editor_absoluteX="257dp"
-        tools:layout_editor_absoluteY="487dp"
-        android:layout_alignBaseline="@+id/runButton"
-        android:layout_alignBottom="@+id/runButton"
-        android:layout_alignEnd="@+id/imageView2" />
+        tools:layout_editor_absoluteY="487dp" />
 
     <Button
         android:id="@+id/runButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
         android:onClick="runButton"
         android:text="Run"
+        android:background="@drawable/button2"
         tools:layout_editor_absoluteX="39dp"
         tools:layout_editor_absoluteY="487dp"
         android:layout_marginBottom="27dp"

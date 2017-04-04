@@ -44,7 +44,7 @@ public class loadingScreen extends AppCompatActivity {
         showLogo.startAnimation(DDlogo);
 
         player = new Player();
-        copy = new ArrayList<String>(player.loadData());
+        copy = new ArrayList<>(player.loadData());
 
 
         Thread myThread = new Thread(){

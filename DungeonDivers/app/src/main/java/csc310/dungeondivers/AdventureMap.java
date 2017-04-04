@@ -3,6 +3,7 @@ package csc310.dungeondivers;
 import android.Manifest;
 import android.app.Activity;
 import android.content.Context;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -30,10 +31,11 @@ import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.CameraPosition;
 import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.MapStyleOptions;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 
-public class AdventureMap extends Fragment implements OnMapReadyCallback {
+public class AdventureMap extends Fragment implements OnMapReadyCallback, GoogleMap.OnMarkerClickListener {
     GoogleMap mGoogleMap;
     MapView mapView;
     View mView;
@@ -47,6 +49,7 @@ public class AdventureMap extends Fragment implements OnMapReadyCallback {
     int imageRes;
     ImageView charOnMap;
     int zoomLevel = 16;
+    float tiltLevel = 90;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -59,6 +62,7 @@ public class AdventureMap extends Fragment implements OnMapReadyCallback {
         mView = inflater.inflate(R.layout.adventure_map, container, false);
         charOnMap = (ImageView) mView.findViewById(R.id.charOnMap);
         //mView.getUiSettings().setScrollGesturesEnabled(false);
+
         return mView;
     }
 
@@ -69,17 +73,6 @@ public class AdventureMap extends Fragment implements OnMapReadyCallback {
 
 
 
-        //imageRes = activity2.getCharIcon();
-        //int id = getResources().getIdentifier(img, "drawable", getPackageName());
-        //bitmap = BitmapFactory.decodeResource(getResources(), imageRes);
-        // Marker marker = m.addMarker(new MarkerOptions()
-       //         .position(new LatLng(s.lat, s.lon))
-       //         .icon(BitmapDescriptorFactory.fromBitmap(bitmap))
-       //         .anchor(0.5f, 1f));
-
-       // charIcon = getResources().getDrawable(R.id.img);
-
-        // charIcon = getResources().getIdentifier(img, "drawable", getPackageName());
 
 
 
@@ -88,19 +81,8 @@ public class AdventureMap extends Fragment implements OnMapReadyCallback {
             mapView.onCreate(null);
             mapView.onResume();
             mapView.getMapAsync(this);
-            /*mapView.setOnTouchListener(new View.OnTouchListener() {
 
-                @Override
-                public boolean onTouch(View v, MotionEvent event) {
-                    if(event.getAction() == MotionEvent.ACTION_MOVE) {
-                        return true;
-                    }
-                    return false;
-                }
-            });
-*/
-            //mapView.setClickable(false);
-           // mapView.getUiSettings().setScrollGesturesEnabled(false);
+
         }
         locationManager = (LocationManager) getActivity().getSystemService(Context.LOCATION_SERVICE);
         if (ActivityCompat.checkSelfPermission(getActivity(), Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(getActivity(), Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
@@ -121,15 +103,15 @@ public class AdventureMap extends Fragment implements OnMapReadyCallback {
             public void onLocationChanged(Location location) {
                 if(location != null)
                 {
-                   // Log.e("lat :" , "" + location.getLatitude());
-                   // Log.e("Lng :", "" + location.getLongitude());
+                    Log.e("lat :" , "" + location.getLatitude());
+                    Log.e("Lng :", "" + location.getLongitude());
                 }
                 currentLatitude = location.getLatitude();
                 currentLongitude = location.getLongitude();
 
 
 
-                CameraPosition playerLocation = CameraPosition.builder().target(new LatLng(currentLatitude,currentLongitude)).zoom(zoomLevel).bearing(0).build();
+                CameraPosition playerLocation = CameraPosition.builder().target(new LatLng(currentLatitude,currentLongitude)).zoom(zoomLevel).tilt(tiltLevel).bearing(0).build();
                 mGoogleMap.moveCamera(CameraUpdateFactory.newCameraPosition(playerLocation));
 
             }
@@ -157,14 +139,7 @@ public class AdventureMap extends Fragment implements OnMapReadyCallback {
         int imageRes = activity2.getIconId();
 
 
-       // charOnMap.setBackgroundResource(imageRes);
-       // AnimationDrawable frameAnimation = (AnimationDrawable) charOnMap.getBackground();
-       // frameAnimation.start();
-       // charOnMap.setImageResource(R.drawable.w_h_m);
 
-         //charOnMap.setBackgroundResource(R.drawable.whm);
-         //AnimationDrawable frameAnimation = (AnimationDrawable) charOnMap.getBackground();
-         //frameAnimation.start();
         charOnMap.setBackgroundResource(getResources().getIdentifier(playerIcon, "drawable", getContext().getPackageName()));
         AnimationDrawable frameAnimation = (AnimationDrawable) charOnMap.getBackground();
         frameAnimation.start();
@@ -175,6 +150,16 @@ public class AdventureMap extends Fragment implements OnMapReadyCallback {
     @Override
     public void onMapReady(GoogleMap googleMap) {
         MapsInitializer.initialize(getContext());
+       // googleMap.setMyLocationEnabled(true);
+
+        MapStyleOptions style = MapStyleOptions.loadRawResourceStyle(getContext(), R.raw.map_edits);
+        googleMap.setMapStyle(style);
+       // googleMap.getUiSettings().setAllGesturesEnabled(false);
+        googleMap.getUiSettings().setCompassEnabled(false);
+
+
+
+
 
         mGoogleMap = googleMap;
         googleMap.setMapType(GoogleMap.MAP_TYPE_NORMAL);
@@ -193,8 +178,15 @@ public class AdventureMap extends Fragment implements OnMapReadyCallback {
 
        // googleMap.addMarker(new MarkerOptions().position(currentLocation).title("You").snippet("snippet"));
        // CameraPosition playerLocation = CameraPosition.builder().target(currentLocation).zoom(16).bearing(0).tilt(45).build();
-        CameraPosition playerLocation = CameraPosition.builder().target(currentLocation).zoom(zoomLevel).bearing(0).build();
+
+        //in game
+        //  CameraPosition playerLocation = CameraPosition.builder().target(currentLocation).zoom(zoomLevel).tilt(tiltLevel).bearing(0).build();
+      //  googleMap.moveCamera(CameraUpdateFactory.newCameraPosition(playerLocation));
+
+        CameraPosition playerLocation = CameraPosition.builder().target(new LatLng(43.018837, -83.687402)).zoom(zoomLevel).tilt(tiltLevel).bearing(0).build();
         googleMap.moveCamera(CameraUpdateFactory.newCameraPosition(playerLocation));
+
+        mGoogleMap.setOnMarkerClickListener(this);
 
 //***************************************************************************************************
 
@@ -204,4 +196,15 @@ public class AdventureMap extends Fragment implements OnMapReadyCallback {
     }
 
 
+    @Override
+    public boolean onMarkerClick(Marker marker) {
+
+        adventureActivity2 activity2;
+        activity2 = (adventureActivity2) getActivity();
+        Intent intent = new Intent(getContext(), BattleStagingScreen.class);
+        intent.putExtra("playerInfo", activity2.getPlayerInfo());
+        startActivity(intent);
+
+        return false;
+    }
 }

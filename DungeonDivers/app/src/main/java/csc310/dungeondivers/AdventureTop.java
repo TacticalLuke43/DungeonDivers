@@ -54,7 +54,7 @@ public class AdventureTop extends Fragment implements SensorEventListener{
 
 
         activity2 = (adventureActivity2) getActivity();
-        //moneyOwned = 0;
+
 
 
         coin.setBackgroundResource(R.drawable.coin_anim);
@@ -75,17 +75,17 @@ public class AdventureTop extends Fragment implements SensorEventListener{
         String name = activity2.getPlayerName();
         adventureTopNameView.setText(name);
         moneyOwned = activity2.getGold();
-        //playerInfo = activity2.getPlayerInfo();
+
         player = activity2.getPlayer();
         classAdventure.setText(player.getJustClass());
 
         money.setText(" " + moneyOwned + " ");
 
         //Pedometer
-        pedometerTotal = activity2.getStepsTaken();
+        pedometerTotal = activity2.getStepsTaken() - 1;
         stepsAdventure.setText("Steps: " + pedometerTotal);
         mSensorManager = (SensorManager) getActivity().getSystemService(Context.SENSOR_SERVICE);
-        //mSensorManager = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
+
         mStepCounterSensor = mSensorManager.getDefaultSensor(Sensor.TYPE_STEP_COUNTER);
         mStepDetectorSensor = mSensorManager.getDefaultSensor(Sensor.TYPE_STEP_DETECTOR);
 
@@ -98,18 +98,14 @@ public class AdventureTop extends Fragment implements SensorEventListener{
     public void onSensorChanged(SensorEvent sensorEvent) {
         Sensor sensor = sensorEvent.sensor;
         float[] values = sensorEvent.values;
-        int value = -1;
 
-        if (values.length > 0) {
-            value = (int) values[0];
-        }
 
         if (sensor.getType() == Sensor.TYPE_STEP_COUNTER) {
             pedometerTotal++;
             stepsAdventure.setText("Steps: " + pedometerTotal);
 
-            //  testSteps.setText("Step Counter Detected : " + value);
-            if(value % 10 == 0)
+
+            if(pedometerTotal % 10 == 0 && pedometerTotal > 0)
             {
                 mediaPlayer.start();
                 moneyOwned++;
@@ -118,14 +114,9 @@ public class AdventureTop extends Fragment implements SensorEventListener{
 
 
             }
-            Log.e("step counter detected" , "" + value);
+           // Log.e("step counter detected" , "" + value);
 
-        } //else if (sensor.getType() == Sensor.TYPE_STEP_DETECTOR) {
-            // For test only. Only allowed value is 1.0 i.e. for step taken
-            // testSteps.setText("Step Detector Detected : " + value);
-            //testSteps.setText("Steps: " + value);
-           // Log.e("step Detector detected" , "" + value);
-        //}
+        }
     }
 
     @Override
@@ -164,3 +155,10 @@ public class AdventureTop extends Fragment implements SensorEventListener{
 
 
 }
+
+//else if (sensor.getType() == Sensor.TYPE_STEP_DETECTOR) {
+// For test only. Only allowed value is 1.0 i.e. for step taken
+// testSteps.setText("Step Detector Detected : " + value);
+//testSteps.setText("Steps: " + value);
+// Log.e("step Detector detected" , "" + value);
+//}

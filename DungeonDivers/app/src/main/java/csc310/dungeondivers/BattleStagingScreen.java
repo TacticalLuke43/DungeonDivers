@@ -17,6 +17,7 @@ public class BattleStagingScreen extends AppCompatActivity {
     ArrayList<String> playerInfo;
     public Player player;
     ImageView charSpriteImage;
+    ImageView monsterSpriteImage;
     TextView charNameText;
     TextView charLevelText;
     @Override
@@ -32,6 +33,11 @@ public class BattleStagingScreen extends AppCompatActivity {
         charSpriteImage.setBackgroundResource(getResources().getIdentifier(playerIcon, "drawable", getApplicationContext().getPackageName()));
         AnimationDrawable frameAnimation = (AnimationDrawable) charSpriteImage.getBackground();
         frameAnimation.start();
+        //update monster sprite on screen
+        monsterSpriteImage = (ImageView) findViewById(R.id.monsterSprite);
+        monsterSpriteImage.setBackgroundResource(getResources().getIdentifier("ghost_sprite_anim", "drawable", getApplicationContext().getPackageName()));
+        AnimationDrawable frameAnimation2 = (AnimationDrawable) monsterSpriteImage.getBackground();
+        frameAnimation2.start();
         //update player name
         charNameText = (TextView) findViewById(R.id.charName);
         charNameText.setText(player.getName());

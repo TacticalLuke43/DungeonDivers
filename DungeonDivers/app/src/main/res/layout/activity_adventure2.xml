@@ -16,24 +16,87 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         tools:layout="@layout/adventure_top" />
-
+<!--
     <fragment
         android:id="@+id/fragment2"
-        android:name="csc310.dungeondivers.AdventureBottom"
+        android:name="com.example.rommo_000.dungeondivers.AdventureBottom"
         android:layout_width="match_parent"
         android:layout_height="75dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         tools:layout="@layout/adventure_bottom" />
-
-    <fragment
-        android:id="@+id/fragment3"
-        android:name="csc310.dungeondivers.AdventureMap"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/fragment"
-        android:layout_above="@+id/fragment2"
-        android:layout_alignParentEnd="true"
+-->
+    <RelativeLayout
+        android:id="@+id/gameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:layout_alignParentStart="true"
-        tools:layout="@layout/adventure_map" />
+        android:layout_below="@+id/fragment"
+        android:layout_above="@+id/bottomCaveImage">
+
+
+                <fragment
+                    android:id="@+id/fragment3"
+                    android:name="csc310.dungeondivers.AdventureMap"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    />
+
+        <!-- android:layout_below="@+id/fragment"
+            android:layout_above="@+id/fragment2"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            tools:layout="@layout/adventure_map" />-->
+<!--
+        <fragment
+            android:id="@+id/fragment4"
+            android:name="com.example.rommo_000.dungeondivers.AdventureSocialDemo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+           />
+-->
+
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/bottomCaveImage"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:scaleType="fitXY"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        app:srcCompat="@drawable/cavebottom" />
+
+    <Button
+        android:id="@+id/socialButton"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:text="Social"
+        android:onClick="changeFragment"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="13dp" />
+
+    <Button
+        android:id="@+id/charInfoInGame"
+        android:onClick="goToCharacterInfo"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/socialButton"
+        android:layout_alignParentEnd="true"
+
+        android:layout_marginEnd="24dp"
+        android:text="Char" />
+
+    <ImageView
+        android:id="@+id/charOnMap1"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:clickable="false"
+        android:layout_below="@+id/fragment"
+        android:layout_toEndOf="@+id/socialButton"
+        android:layout_marginTop="173dp" />
+
 </RelativeLayout>
